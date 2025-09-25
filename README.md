@@ -86,17 +86,9 @@
 </p>
 
 <br><br>
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
-    </td>
-    <td>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ev6egwsw5mybu4k3kufsotdvmq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-    </td>
-  </tr>
-</table>
+
 
 
 
