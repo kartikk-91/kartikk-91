@@ -27,11 +27,11 @@
     <td>
       <h2>📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h2>
       <ul>
-        <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜</li>
-        <li>💼 Backend Engineer, Niro</li>
-        <li>🎓 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 GGSIPU</li>
-        <li>🛠 𝙿𝚘𝚜𝚒𝚝𝚒𝚟𝚎 𝚏𝚘𝚌𝚞𝚜 𝚘𝚗 𝙳SA, Web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙱𝚕𝚘𝚌𝚔𝚌𝚑𝚊𝚒𝚗 𝚊𝚗𝚍 𝙶𝚎𝚗𝙰𝙸</li>
-        <li>🌍 𝙻𝚘𝚌𝚊𝚝𝚎𝚍 𝚒𝚗 𝙽𝚎𝚠 𝙳𝚎𝚕𝚑𝚒, 𝙸𝚗𝚍𝚒𝚊</li>
+        <li>💻 I enjoy building software that connects theory with real-world </li>
+<li>🎓 Engineering student at GGSIPU</li>
+<li>⚡ Interests: algorithms, system design, machine learning</li>
+<li>🛠 Hands-on with backend engineering and web technologies</li>
+<li>🌐 Based in New Delhi, India</li>
       </ul>
     </td>
     <td>
