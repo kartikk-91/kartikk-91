@@ -78,10 +78,6 @@
 
 
 <p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=kartikk-91&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=road_trip&color=%23ffffffFF&hide=contributions%2Crank" alt="GitHub Stats" width="800">
-</p>
-
-<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
