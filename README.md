@@ -61,8 +61,6 @@
 
 <br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ev6egwsw5mybu4k3kufsotdvmq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 
 
