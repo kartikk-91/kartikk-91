@@ -5,7 +5,6 @@
 </h1>
 <table width="100%" align="center">
   <tr>
-    <!-- LEFT -->
     <td width="65%" valign="middle">
       <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li>I work on full-stack web apps, mostly around the backend.</li>
@@ -14,7 +13,6 @@
   <li>Currently an engineering student, learning by building and breaking things.</li>
     </ul>
     </td>
-    <!-- RIGHT -->
     <td width="35%" align="center">
       <img 
         src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
@@ -62,7 +60,6 @@
   </tr>
 </table>
 
-<br />
 
 ## Tech Stack
 <table align="center">
