@@ -1,9 +1,7 @@
 
-## 🌐 Socials:
-<a href="https://twitter.com/Kartik_P18" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X"></a>
-<a href="https://linkedin.com/in/kartikpokhriyal18" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9c5a48a7-2763-43c8-bc42-13eb795f3884" />
 
-# 💻 Tech Stack:
+## Tech Stack
 <table align="center">
   <tr>
     <th align="center">Frontend</th>
@@ -43,13 +41,12 @@
 
 
 
-# 📊 GitHub Stats:
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kartikk-91&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kartikk-91&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikk-91&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kartikk-91&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## My Contribution Graph
