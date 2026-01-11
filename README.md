@@ -1,6 +1,3 @@
-
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/9c5a48a7-2763-43c8-bc42-13eb795f3884" />
-
 ## Tech Stack
 <table align="center">
   <tr>
@@ -38,16 +35,18 @@
   </tr>
 </table>
 
-
-
-
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kartikk-91&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kartikk-91&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikk-91&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kartikk-91&theme=github_dark&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kartikk-91&type=languages&theme=github&chart=bars" />
+    </td>
+  </tr>
+</table>
 
 ## My Contribution Graph
 
@@ -56,7 +55,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikk-91/kartikk-91/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kartikk-91/kartikk-91/output/pacman-contribution-graph.svg">
 </picture>
-
-
 
 
