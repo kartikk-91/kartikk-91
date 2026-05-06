@@ -103,7 +103,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=kartikk-91&theme=github_dark&hide_border=true" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kartikk-91&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
     </td>
     <td align="center">
       <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kartikk-91&type=languages&theme=github&chart=bars" />
@@ -118,5 +118,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartikk-91/kartikk-91/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kartikk-91/kartikk-91/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
